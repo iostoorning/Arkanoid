@@ -17,7 +17,7 @@ ball_x_speed = 2
 ball_y_speed = 2
 
 bars_list = []
-
+r=0
 
 def draw():
     screen.blit("background.png", (0, 0))
